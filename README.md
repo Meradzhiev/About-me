@@ -2,7 +2,7 @@
 - 👀 I’m interested in Java & C#
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me @ ymeradzhiev@yahoo.com
 
 <!---
 Meradzhiev/Meradzhiev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
